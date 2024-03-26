@@ -1,0 +1,18 @@
+Css(Cascading style shheets)
+1997 -- css started
+now its have 3 exists.
+css can be wriitten in 3 ways 
+   1)inline styling
+//create a div with a samll paragraph, make the div background colour black and text colour white.
+
+  <div style="background-color:black;color:white;">
+  <p>swathi and trilok and laxmi are best friends</p>
+  </div>
+
+   2)internal styling:  
+in interal stylimg, in the head we include style element.
+  <style>
+
+
+
+    </style>
