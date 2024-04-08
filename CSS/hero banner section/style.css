@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin:0 ;
+    background : url("https://img.freepik.com/premium-photo/boy-is-reading-book-tree-rain_968529-3887.jpg?w=360") no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    height: 100vh;
+    background-position:center ;
+    overflow: hidden;
+}
+body{
+    color:white;
+}
+h1{
+    
+    padding:80px;
+    margin: 80;
+    font-size: 50px;
+}
+p{
+    color: yellow;
+   margin: 0;
+   text-align: left;
+   text-shadow: 20px;
+   padding: 0px;
+   margin: 20px;
+}
+a{
+    color: deeppink;
+
+}
+p:hover{
+    color: fuchsia;
+}
+div{
+    padding: 40px;
+}
+button {
+    border: red;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    cursor: pointer
+}
